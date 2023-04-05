@@ -27,7 +27,9 @@ Opening URL http://localhost:9500/hello.html
 ClojureScript 1.10.773
 cljs.user=>
 ```
-This will leave the terminal with a CLJS REPL running.
+This will leave the terminal with a CLJS REPL running, and open the app in a browser near you:
+
+![hello app screenshot](doc/hello-world-app.png)
 
 Leave the REPL running while developing. Recompilation messages/errors will appear here. Use Control-D to exit.
 
