@@ -1,4 +1,4 @@
-# web-mx-starter
+# Web/MX&trade;
 A minimal [Web/MX&trade;](https://github.com/kennytilton/web-mx) starter app.
 
 #### Installation
